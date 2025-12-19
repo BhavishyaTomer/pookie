@@ -191,8 +191,8 @@ function App() {
 
       {/* Image papers */}
       <Paper className="image">
-        <p>and I fallen in</p>
-        <p>Love with You 😍</p>
+        <p>and I Love you to </p>
+        <p>the moons 😍</p>
         <img src="/images/1.jpeg" alt="Love" />
       </Paper>
 
@@ -210,11 +210,11 @@ function App() {
       {/* Text papers */}
       <Paper className="red">
         <p className="p1">and My Favorite</p>
-        <p className="p2">Person 😍</p>
+        <p className="p2">Person and always be😍</p>
       </Paper>
 
       <Paper>
-        <p className="p1">You are Cute</p>
+        <p className="p1">You are </p>
         <p className="p1">Amazing <span style={{ color: 'red' }}>❤️</span></p>
       </Paper>
 
